@@ -15,6 +15,7 @@ console.log('Tenés ' + calcularEdad(anioActual, anioNacimiento) + ' años');
 // Preguntar el salario anual y calcular el salario mensual
 // Preguntar el salario mensual y calcular el anual
 // diario... semanal, por hora. etc.
+//.........
 
 function calcularSalarioAnual(salarioMensual) {
     const cantidadMesesEnUnAnio = 12;
