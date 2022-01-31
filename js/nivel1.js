@@ -19,7 +19,7 @@
 
     Cuando estás escribiendo código que querés que la máquina ejecute, ponelos AFUERA de los bloques de comentario.
 */
-
+// -----
 
 /*
     Mostrando texto
