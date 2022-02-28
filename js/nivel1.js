@@ -240,9 +240,35 @@
 // Ejecutá la función sumar y mostrá su resultado en la consola
 
 
+
+
+
+
+//function Sumar (Numero1, Numero2) {
+//return Numero1+Numero2;
+
+//}
+
+
+
+
+//console.log (Sumar
+  //  (2,4)
+    //)
+
 // TAREA: Ahora creemos otra función llamada 'restar'
 //       Que acepte 2 números como parámetro y los reste, y que devuelva ese valor.
 // Ejecutá la función con los números 5 y 1 y mostralos con console.log
+
+function restar (Numero1, Numero2) {
+ return Numero1-Numero2
+}
+
+console.log (restar
+    (6,4)
+    );
+    
+
 
 
 // Consejo: Sabías que en vez de pasar los números directamente a tu función podés crear variables con esos números
